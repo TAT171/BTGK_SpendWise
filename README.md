@@ -21,5 +21,5 @@
 
 ## Link liên kết
 - **Link Canva:** [https://canva.link/84aezfp2ua6gn20]
-- **Link Video:** [Dán link Video trình bày giữa kỳ của bạn tại đây]
-- **Link GitHub:** [Dán link GitHub Repository cá nhân của bạn tại đây]
+- **Link Video:** [https://youtu.be/Otc9KT4H_cc]
+- **Link GitHub:** [https://github.com/TAT171/BTGK_SpendWise]
